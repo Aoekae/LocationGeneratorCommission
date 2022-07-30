@@ -1,0 +1,20 @@
+#bigP {
+    border-bottom: 1px solid;
+    background-color: rgb(153, 116, 255);
+    font-size: x-large;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding-top: 5px;
+    color: rgb(243, 230, 255);
+}
+
+p {
+    border: 1px solid;
+    margin: 5px;
+    background-color: rgb(209, 160, 255);
+}
+
+#lastP {
+    border-bottom-left-radius: 25px;  
+    border-bottom-right-radius: 25px;  
+}

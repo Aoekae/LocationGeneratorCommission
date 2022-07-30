@@ -1,0 +1,10 @@
+div {
+    text-align: center;
+}
+
+button {
+    background-image: linear-gradient(to right, rgb(255, 102, 102),rgb(255, 203, 107),rgb(255, 255, 154),rgb(173, 255, 173),rgb(162, 218, 255),rgb(191, 157, 255),rgb(255, 193, 255));
+    color: black;
+    padding: 15px;
+    border-radius: 5px;
+}

@@ -1,0 +1,35 @@
+div {
+    width: 420 px;
+    min-height: 380px;
+    border: 1px solid;
+    color: black;
+    border-radius: 25px;
+    background-image: linear-gradient(to right, rgb(255, 102, 102),rgb(255, 203, 107),rgb(255, 255, 154),rgb(173, 255, 173),rgb(162, 218, 255),rgb(191, 157, 255),rgb(255, 193, 255));
+}
+
+#bigDiv {
+    column-count: 3;
+    border: 0px;
+    background-image: none;
+}
+
+#bigP {
+    border-bottom: 1px solid;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: rgb(187, 187, 187) 0 10px;
+    font-size: x-large;
+}
+
+#title {
+    color: rgb(255, 255, 255);
+}
+
+footer {
+    font-size: small;
+    text-align: right;
+}
